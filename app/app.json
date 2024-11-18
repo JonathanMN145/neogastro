@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b1d1191-e382-48f1-a2f1-04d06c2d5ae1"
+      }
+    },
+    "owner": "boteksito"
   }
 }
